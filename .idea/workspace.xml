@@ -42,13 +42,6 @@
   }
 }</component>
   <component name="RunManager" selected="Application.Homework2">
-    <configuration name="HomeWorkApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWorkApp" />
-      <module name="HomeWork" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Homework2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework2.Homework2" />
       <module name="HomeWork" />
@@ -62,10 +55,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="homework1.HomeWorkApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework1.HomeWorkApp" />
+      <module name="HomeWork" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Homework2" />
-        <item itemvalue="Application.HomeWorkApp" />
+        <item itemvalue="Application.homework1.HomeWorkApp" />
       </list>
     </recent_temporary>
   </component>
